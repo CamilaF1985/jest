@@ -1,0 +1,10 @@
+# Ignora archivos de compilación
+*.o
+*.class
+
+# Ignora el directorio "node_modules" en proyectos JavaScript
+node_modules/
+
+# Ignora archivos de configuración
+config.js
+secrets.json
